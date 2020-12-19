@@ -6,4 +6,5 @@
 <p>Nurbek Kumushbekov</p>
 
 <h3> Brick breacker king</h3>
-![](IMAGE/project.png)
+
+
