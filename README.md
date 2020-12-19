@@ -1,5 +1,6 @@
 # GameForFinal
-brick breacker game for final project
+ Game for final project
 
 <h3>Contributors</h3>
-zhakyp zhoomart uulu
+<p>zhakyp zhoomart uulu</p>
+<p>Nurbek Kumushbekov</p>
