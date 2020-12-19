@@ -11,4 +11,7 @@ game in the background of space.
 Anyone can play the game due to its 
 simple controls and easy rules.
 
+![project1](https://user-images.githubusercontent.com/73534500/102700322-74914000-425d-11eb-97c0-274e1766c371.png)
+
+
 
